@@ -1,0 +1,15 @@
+Day 1:
+component
+directives
+pipes
+routing 
+
+Demo1:
+standalone with routes
+Standalone with app-root
+Standalone comp nested --imports
+Standalone directive
+ng g c d red --standalone
+Standalone pipes
+ng g p gender --standalone
+ng  g c PipeDemo --stanalone
