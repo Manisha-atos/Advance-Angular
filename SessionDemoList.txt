@@ -1,0 +1,37 @@
+
+Day 1:
+ng g c test --standalone
+Demo 1:Standalone Component with routes
+Demo 2:Standalone component with app-root
+do changes in app.module.ts
+imports: [
+    BrowserModule,
+    AppRoutingModule,Test2Component     
+  ],
+Demo 3:Nested stanalone component
+Demo 4:Standalone directive
+Demo 5:stanalone Pipe
+
+Day 2:
+Demo 1:Changedetection 
+
+change detectio is from top to bottom comp,nested comp
+Demo 2:Typed Form 
+in angular 13 datatype is any 
+spelling mistakes
+?--
+UntypedForm
+
+Day 3:
+Streamlined Page title accessibility
+Demo 1: change title in index.html
+change title for individual componenets
+Demo 2:update title demo
+Title to each component
+Extended developer diagnostics
+
+40481
+
+
+
+

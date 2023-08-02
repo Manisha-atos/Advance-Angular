@@ -1,0 +1,22 @@
+
+Stanalone componenet,pipes and directives 
+https://www.fabiobiondi.dev/tutorials/angular/angular-standalone-apps
+
+https://kgajera.com/blog/angular-14-standalone-components/
+
+https://www.telerik.com/blogs/angular-14-introducing-standalone-components
+
+Change detection :
+https://dzone.com/articles/how-to-use-change-detection-in-angular
+https://www.youtube.com/watch?v=8SImpeCg2ZU
+
+Typed forms:
+https://blog.bitsrc.io/typed-forms-in-angular-58d9cf88d74d
+https://www.c-sharpcorner.com/article/angular-14-typed-forms2/
+Page title:
+https://efficientcoder.net/angular-14-titlestrategy/
+
+All demos
+https://www.youtube.com/watch?v=50tINEglfWI
+
+https://blog.angular.io/angular-v14-is-now-available-391a6db736af
