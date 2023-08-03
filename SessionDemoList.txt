@@ -12,6 +12,13 @@ Demo 3:Nested stanalone component
 Demo 4:Standalone directive
 Demo 5:stanalone Pipe
 
+demo 6:lazy loading
+lazy loading 
+when we run the application all routes will get loaded automatically 
+ng g m admin --routing
+ng g c admin\login 
+ng g c admin\adminlist
+
 Day 2:
 Demo 1:Changedetection 
 
